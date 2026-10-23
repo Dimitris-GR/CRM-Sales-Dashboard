@@ -22,6 +22,9 @@ README.md – Project documentation and usage instructions
 
 Screenshots folder – Visual previews of the dashboard
 
+### 🔗 View the Interactive Dashboard
+You can explore the live Google Sheets version here: https://docs.google.com/spreadsheets/d/12szSocVJR1iJCykvXsagD3P7sKlbMbKrR2ue_zyzgoQ/edit?usp=sharing
+
 - - -
 
 🌐 Portfolio Link: https://sites.google.com/view/dimitris-drogoutis
