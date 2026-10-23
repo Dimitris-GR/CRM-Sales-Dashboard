@@ -20,7 +20,7 @@ CRM_Sales_Dashboard_GoogleSheets – Full interactive dashboard
 
 README.md – Project documentation and usage instructions
 
-Screenshots folder – [Screenshots](./Screenshots) – Visual previews of the dashboard
+[Screenshots](./Screenshots) – Visual previews of the dashboard
 
 
 ### 🔗 View the Interactive Dashboard
