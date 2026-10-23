@@ -18,6 +18,8 @@ Spreadsheet Automation & Filtering
 📁 Files in This Repository
 CRM_Sales_Dashboard_GoogleSheets – Full interactive dashboard
 
+CRM_Sales_Dashboard.xlsx – Spreadsheet version
+
 README.md – Project documentation and usage instructions
 
 [Screenshots](./Screenshots) – Visual previews of the dashboard
